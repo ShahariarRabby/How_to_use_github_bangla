@@ -30,13 +30,14 @@ github কিভাবে ব্যাবহার করবেন?
 <br><br>
 ৭। তারপরঃ প্রতিবার code আপের পূর্বে
 <br><br>
-৭.১। git add . (. দিয়ে সব ফাইল add করলাম)
-<br><br>
+`git add .`<br>
+`git commit -m “your message”`<br>
+`git push origin master`<br>
+<br>(. দিয়ে সব ফাইল add করলাম)<br>
+(“your message” এ code এ কি কি চেঞ্জ করেলন তা কয়েক শব্দে লিখুন)
+<br>(master branch এ কোড পুশ করলেন)
 
-৭.২। git commit -m "your message" ("your message" এ code এ কি কি চেঞ্জ করেলন তা কয়েক শব্দে লিখুন)
 <br><br>
-
-৭.৪। git push origin master (master branch এ কোড পুশ করলেন)<br><br>
 ৮। গিট পেজ রিলোড করুন, দেখবেন আপ হয়ে গেসে।
 <br><br>
 ৭ নং স্টেপটা code আপের আগে বার বার করতে হবে।
